@@ -1,0 +1,30 @@
+{
+    "name": "SOURCE VAMBIR",
+    "description": "سورس فمبير لصنع بوتات حمايه بجميع المميزات❤️",
+    "repository": "https://github.com/VamBIR/v",
+    "logo": "https://telegra.ph/file/b3499f8f3f78a379ded26.jpg",
+    "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "mongodb",
+    "Group-Manager-bot",
+    "pyrogram"
+    ],
+    "website": "https://t.me/XxvprxX",
+    "success_url": "https://t.me/XxvprxX",
+    "stack": "container",
+    "env": {
+        "Token": {
+            "description": "ضع توكن بوتك  @BotFather",
+            "required": true
+        },      
+        "idSudo": {
+            "description": "حط ايدي مطور البوت",
+            "required": true
+        }
+    }
+}
+
+
+
